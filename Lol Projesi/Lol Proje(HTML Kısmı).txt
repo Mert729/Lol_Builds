@@ -1,0 +1,1195 @@
+Lol Proje(HTML Kısmı)
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>All Character Builds</title>
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+  <body style="background-color: rgb(49, 60, 68)">
+    <h2>League of Legends Karakter Buildleri</h2>
+    <div>
+      <ul class="frame">
+        <h1>A</h1>
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/aatrox/build"target="_blank">
+            <img  class="frame" src="Resimler/aatrox.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Aatrox</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/ahri/build" target="_blank" >
+            <img class="frame" src="Resimler/ahri.jpg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3 style="margin-left: -5px">Ahri</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/akali/build" target="_blank" >
+            <img class="frame" src="Resimler/akali.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Akali</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/akshan/build" target="_blank" >
+            <img class="frame" src="Resimler/akshan.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Akshan</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/alistar/build" target="_blank" >
+            <img class="frame" src="Resimler/alistar.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Alistar</h3>
+        </li>
+        <br>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/amumu/build" target="_blank" >
+            <img class="frame" src="Resimler/amumu.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Amumu</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/anivia/build" target="_blank" >
+            <img class="frame" src="Resimler/anivia.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Anivia</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/annie/build" target="_blank">
+            <img class="frame" src="Resimler/annie.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Annie</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/aphelios/build" target="_blank">
+            <img class="frame" src="Resimler/aphelios.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Aphelios</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/ashe/build" target="_blank">
+            <img class="frame" src="Resimler/ashe.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Ashe</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/aurora/build" target="_blank">
+            <img class="frame" src="Resimler/aurora.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Aurora
+          </h3>
+        </li>
+        
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/azir/build" target="_blank">
+            <img class="frame" src="Resimler/azir.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Azir</h3>
+        </li>
+        <br>
+
+        <h1>B</h1>
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/bard/build" target="_blank">
+            <img class="frame" src="Resimler/bard.jpg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Bard</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/belveth/build" target="_blank">
+            <img class="frame" src="Resimler/belveth.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Bel'Veth</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/blitzcrank/build" target="_blank">
+            <img class="frame" src="Resimler/blitzcrank.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Blitzcrank</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/brand/build" target="_blank">
+            <img class="frame" src="Resimler/brand.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Brand</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/braum/build" target="_blank">
+            <img class="frame" src="Resimler/braum.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Braum</h3>
+        </li>
+        <br>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/briar/build" target="_blank">
+            <img class="frame" src="Resimler/briar.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Briar</h3>
+        </li>
+
+        <h1>C</h1>
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/caitlyn/build" target="_blank">
+            <img class="frame" src="Resimler/caitlyn.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Caitlyn</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/camille/build" target="_blank">
+            <img class="frame" src="Resimler/camille.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Camille</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/cassiopia/build" target="_blank">
+            <img class="frame" src="Resimler/cassiopia.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Cassiopia</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/chogath/build" target="_blank">
+            <img class="frame" src="Resimler/chogath.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Cho'gath</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/corki/build" target="_blank">
+            <img class="frame" src="Resimler/corki.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Corki</h3>
+        </li>
+
+        <h1>D</h1>
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/darius/build" target="_blank">
+            <img class="frame" src="Resimler/darius.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Darius</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/diana/build" target="_blank">
+            <img class="frame" src="Resimler/diana.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Diana</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/draven/build" target="_blank">
+            <img class="frame" src="Resimler/draven.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Draven</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/drmundo/build" target="_blank">
+            <img class="frame" src="Resimler/drmundo.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Dr. Mundo</h3>
+        </li>
+
+        <h1>E</h1>
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/ekko/build" target="_blank">
+            <img class="frame" src="Resimler/ekko.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Ekko</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/elise/build" target="_blank">
+            <img class="frame" src="Resimler/elise.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Elise</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/evelynn/build" target="_blank">
+            <img class="frame" src="Resimler/evelynn.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Evelynn</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/ezreal/build" target="_blank">
+            <img class="frame" src="Resimler/ezreal.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Ezreal</h3>
+        </li>
+
+        <h1>F</h1>
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/fiddlesticks/build" target="_blank">
+            <img class="frame" src="Resimler/fiddlesticks.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Fiddlesticks</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/fiora/build" target="_blank">
+            <img class="frame" src="Resimler/fiora.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Fiora</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/fizz/build" target="_blank">
+            <img class="frame" src="Resimler/fizz.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Fizz</h3>
+        </li>
+
+        <h1>G</h1>
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/galio/build" target="_blank">
+            <img class="frame" src="Resimler/galio.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Galio</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/gangplank/build" target="_blank">
+            <img class="frame" src="Resimler/gangplank.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Gangplank</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/garen/build" target="_blank">
+            <img class="frame" src="Resimler/garen.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Garen</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/gnar/build" target="_blank">
+            <img class="frame" src="Resimler/gnar.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Gnar</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/gragas/build" target="_blank">
+            <img class="frame" src="Resimler/gragas.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Gragas</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/graves/build" target="_blank">
+            <img class="frame" src="Resimler/graves.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Graves</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/gwen/build" target="_blank">
+            <img class="frame" src="Resimler/gwen.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Gwen</h3>
+        </li>
+
+        <h1>H</h1>
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/hecarim/build" target="_blank">
+            <img class="frame" src="Resimler/hecarim.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Hecarim</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/heimerdinger/build" target="_blank">
+            <img class="frame" src="Resimler/heimerdinger.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Heimerdinger</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/hwei/build" target="_blank">
+            <img class="frame" src="Resimler/hwei.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Hwei</h3>
+        </li>
+
+        <h1>İ</h1>
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/illoi/build" target="_blank">
+            <img class="frame" src="Resimler/illoi.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Illoi</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/irelia/build" target="_blank">
+            <img class="frame" src="Resimler/irelia.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Irelia</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/ivern/build" target="_blank">
+            <img class="frame" src="Resimler/ivern.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Ivern</h3>
+        </li>
+
+        <h1>J</h1>
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/janna/build" target="_blank">
+            <img class="frame" src="Resimler/janna.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Janna</h3>
+        </li>
+        
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/jarvanıv/build" target="_blank">
+            <img class="frame" src="Resimler/jarvanıv.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Jarvan IV</h3>
+        </li>
+        
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/jax/build" target="_blank">
+            <img class="frame" src="Resimler/jax.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Jax</h3>
+        </li>
+        
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/jayce/build" target="_blank">
+            <img class="frame" src="Resimler/jayce.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Jayce</h3>
+        </li>
+        
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/jhin/build" target="_blank">
+            <img class="frame" src="Resimler/jhin.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Jhin</h3>
+        </li>
+
+        <li>
+          <a href="https://mobalytics.gg/lol/champions/jinx/build" target="_blank">
+            <img class="frame" src="Resimler/jinx.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Jinx</h3>
+        </li>
+
+          <h1>K</h1>
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/kaisa/build" target="_blank">
+            <img class="frame" src="Resimler/kaisa.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Kai'Sa</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/kalista/build" target="_blank">
+            <img class="frame" src="Resimler/kalista.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Kalista</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/karma/build" target="_blank">
+            <img class="frame" src="Resimler/karma.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Karma</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/karthus/build" target="_blank">
+            <img class="frame" src="Resimler/karthus.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Karthus</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/kassadin/build" target="_blank">
+            <img class="frame" src="Resimler/kassadin.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Kassadin</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/katarina/build" target="_blank">
+            <img class="frame" src="Resimler/katarina.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Katarina</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/kayle/build" target="_blank">
+            <img class="frame" src="Resimler/kayle.jpg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Kayle</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/kayn/build" target="_blank">
+            <img class="frame" src="Resimler/kayn.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Kayn</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/kennen/build" target="_blank">
+            <img class="frame" src="Resimler/kennen.jpg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Kennen</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/khazix/build" target="_blank">
+            <img class="frame" src="Resimler/khazix.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Kha'Zix</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/kindred/build" target="_blank">
+            <img class="frame" src="Resimler/kindred.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Kinddred</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/kled/build" target="_blank">
+            <img class="frame" src="Resimler/kled.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Kled</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/kogmaw/build" target="_blank">
+            <img class="frame" src="Resimler/kogmaw.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Kog'Maw</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/ksante/build" target="_blank">
+            <img class="frame" src="Resimler/ksante.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>K'Sante</h3>
+          </li>
+
+          <h1>L</h1>
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/leblanc/build" target="_blank">
+            <img class="frame" src="Resimler/leblanc.jpg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Leblanc</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/leesin/build" target="_blank">
+            <img class="frame" src="Resimler/leesin.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Lee Sin</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/leona/build" target="_blank">
+            <img class="frame" src="Resimler/leona.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Leona</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/lillia/build" target="_blank">
+            <img class="frame" src="Resimler/lillia.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Lillia</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/lissandra/build" target="_blank">
+            <img class="frame" src="Resimler/lissandra.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Lissandra</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/lucian/build" target="_blank">
+            <img class="frame" src="Resimler/lucian.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Lucian</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/lulu/build" target="_blank">
+            <img class="frame" src="Resimler/lulu.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Lulu</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/lux/build" target="_blank">
+            <img class="frame" src="Resimler/lux.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Lux</h3>
+          </li>
+
+          <h1>M</h1>
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/malphite/build" target="_blank">
+            <img class="frame" src="Resimler/malphite.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Malphite</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/malzahar/build" target="_blank">
+            <img class="frame" src="Resimler/malzahar.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Malzahar</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/masteryi/build" target="_blank">
+            <img class="frame" src="Resimler/masteryi.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Master Yi</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/millio/build" target="_blank">
+            <img class="frame" src="Resimler/millio.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Millio</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/missfortune/build" target="_blank">
+            <img class="frame" src="Resimler/missfortune.webp" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Miss Fortune</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/mordekaiser/build" target="_blank">
+            <img class="frame" src="Resimler/mordekaiser.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Mordekaiser</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/morgana/build" target="_blank">
+            <img class="frame" src="Resimler/morgana.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Morgana</h3>
+          </li>
+
+          <h1>N</h1>
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/naafiri/build" target="_blank">
+            <img class="frame" src="Resimler/naafiri.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Naafiri</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/nami/build" target="_blank">
+            <img class="frame" src="Resimler/nami.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Nami</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/nasus/build" target="_blank">
+            <img class="frame" src="Resimler/nasus.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Nasus</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/nautilus/build" target="_blank">
+            <img class="frame" src="Resimler/nautilus.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Nautilus</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/neeko/build" target="_blank">
+            <img class="frame" src="Resimler/neeko.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Neeko</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/nidalee/build" target="_blank">
+            <img class="frame" src="Resimler/nidalee.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Nidalee</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/nocturne/build" target="_blank">
+            <img class="frame" src="Resimler/nocturne.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Nocturne</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/nunu/build" target="_blank">
+            <img class="frame" src="Resimler/nunu.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Nunu & Willump</h3>
+          </li>
+
+          <h1>O</h1>
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/olaf/build" target="_blank">
+            <img class="frame" src="Resimler/olaf.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Olaf</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/orianna/build" target="_blank">
+            <img class="frame" src="Resimler/orianna.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Orianna</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/ornn/build" target="_blank">
+            <img class="frame" src="Resimler/ornn.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Ornn</h3>
+          </li>
+
+          <h1>P</h1>
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/pantheon/build" target="_blank">
+            <img class="frame" src="Resimler/pantheon.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Pantheon</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/poppy/build" target="_blank">
+            <img class="frame" src="Resimler/poppy.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Poppy</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/pyke/build" target="_blank">
+            <img class="frame" src="Resimler/pyke.jpg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Pyke</h3>
+          </li>
+
+          <h1>Q</h1>
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/qiyana/build" target="_blank">
+            <img class="frame" src="Resimler/qiyana.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Qiyana</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/quinn/build" target="_blank">
+            <img class="frame" src="Resimler/quinn.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Quinn</h3>
+          </li>
+
+          <h1>R</h1>
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/rakan/build" target="_blank">
+            <img class="frame" src="Resimler/rakan.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Rakan</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/rammus/build" target="_blank">
+            <img class="frame" src="Resimler/rammus.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Rammus</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/reksai/build" target="_blank">
+            <img class="frame" src="Resimler/reksai.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Rek'Sai</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/rell/build" target="_blank">
+            <img class="frame" src="Resimler/rell.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Rell</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/renataglasc/build" target="_blank">
+            <img class="frame" src="Resimler/renataglasc.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Renataglasc</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/renekton/build" target="_blank">
+            <img class="frame" src="Resimler/renekton.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Renekton</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/rengar/build" target="_blank">
+            <img class="frame" src="Resimler/rengar.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Rengar</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/riven/build" target="_blank">
+            <img class="frame" src="Resimler/riven.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Riven</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/rumble/build" target="_blank">
+            <img class="frame" src="Resimler/rumble.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Rumble</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/ryze/build" target="_blank">
+            <img class="frame" src="Resimler/ryze.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Ryze</h3>
+          </li>
+
+          <h1>S</h1>
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/samira/build" target="_blank">
+            <img class="frame" src="Resimler/samira.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Samira</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/sejuani/build" target="_blank">
+            <img class="frame" src="Resimler/sejuani.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Sejuani</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/senna/build" target="_blank">
+            <img class="frame" src="Resimler/senna.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Senna</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/seraphine/build" target="_blank">
+            <img class="frame" src="Resimler/seraphine.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Seraphine</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/sett/build" target="_blank">
+            <img class="frame" src="Resimler/sett.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Sett</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/shaco/build" target="_blank">
+            <img class="frame" src="Resimler/shaco.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Shaco</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/shen/build" target="_blank">
+            <img class="frame" src="Resimler/shen.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Shen</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/shyvana/build" target="_blank">
+            <img class="frame" src="Resimler/shyvana.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Shyvana</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/singed/build" target="_blank">
+            <img class="frame" src="Resimler/singed.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Singed</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/sion/build" target="_blank">
+            <img class="frame" src="Resimler/sion.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Sion</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/sivir/build" target="_blank">
+            <img class="frame" src="Resimler/sivir.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Sivir</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/s/build" target="_blank">
+            <img class="frame" src="Resimler/skarner.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Skarner</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/smolder/build" target="_blank">
+            <img class="frame" src="Resimler/smolder.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Smolder</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/sona/build" target="_blank">
+            <img class="frame" src="Resimler/sona.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Sona</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/soraka/build" target="_blank">
+            <img class="frame" src="Resimler/soraka.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Soraka</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/swain/build" target="_blank">
+            <img class="frame" src="Resimler/swain.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Swain</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/sylas/build" target="_blank">
+            <img class="frame" src="Resimler/sylas.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Sylas</h3>
+          </li>
+
+          <li>
+            <a href="https://mobalytics.gg/lol/champions/syndra/build" target="_blank">
+              <img class="frame" src="Resimler/syndra.jpeg" alt="Resim bulunamadı."/></a>
+            <br>
+            <h3>Syndra</h3>
+          </li>
+
+          <h1>T</h1>
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/tahmkench/build" target="_blank">
+            <img class="frame" src="Resimler/tahmkench.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Tahm Kench</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/taliyah/build" target="_blank">
+            <img class="frame" src="Resimler/taliyah.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Taliyah</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/talon/build" target="_blank">
+            <img class="frame" src="Resimler/talon.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Talon</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/taric/build" target="_blank">
+            <img class="frame" src="Resimler/taric.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Taric</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/teemo/build" target="_blank">
+            <img class="frame" src="Resimler/teemo.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Teemo</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/thresh/build" target="_blank">
+            <img class="frame" src="Resimler/thresh.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Thresh</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/tristana/build" target="_blank">
+            <img class="frame" src="Resimler/tristana.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Tristana</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/trundle/build" target="_blank">
+            <img class="frame" src="Resimler/trundle.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Trundle</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/tryndamere/build" target="_blank">
+            <img class="frame" src="Resimler/tryndamere.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Tryndamere</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/twistedfate/build" target="_blank">
+            <img class="frame" src="Resimler/twistedfate.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Twisted Fate</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/twitch/build" target="_blank">
+            <img class="frame" src="Resimler/twitch.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Twitch</h3>
+          </li>
+
+          <h1>U</h1>
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/udyr/build" target="_blank">
+            <img class="frame" src="Resimler/udyr.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Udyr</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/urgot/build" target="_blank">
+            <img class="frame" src="Resimler/urgot.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Urgot</h3>
+          </li>
+
+          <h1>V</h1>
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/varus/build" target="_blank">
+            <img class="frame" src="Resimler/varus.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Varus</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/vayne/build" target="_blank">
+            <img class="frame" src="Resimler/vayne.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Vayne</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/veigar/build" target="_blank">
+            <img class="frame" src="Resimler/veigar.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Veigar</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/vex/build" target="_blank">
+            <img class="frame" src="Resimler/vex.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Vex</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/vi/build" target="_blank">
+            <img class="frame" src="Resimler/vi.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Vi</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/viego/build" target="_blank">
+            <img class="frame" src="Resimler/viego.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Viego</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/viktor/build" target="_blank">
+            <img class="frame" src="Resimler/viktor.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Viktor</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/vladimir/build" target="_blank">
+            <img class="frame" src="Resimler/vladimir.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Vladimir</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/volibear/build" target="_blank">
+            <img class="frame" src="Resimler/volibear.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Volibear</h3>
+          </li>
+
+          <h1>W</h1>
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/warwick/build" target="_blank">
+            <img class="frame" src="Resimler/warwick.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Warwick</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/wukong/build" target="_blank">
+            <img class="frame" src="Resimler/wukong.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Wukong</h3>
+          </li>
+
+          <h1>X</h1>
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/xayah/build" target="_blank">
+            <img class="frame" src="Resimler/xayah.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Xayah</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/xerath/build" target="_blank">
+            <img class="frame" src="Resimler/xerath.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Xerath</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/xinzhao/build" target="_blank">
+            <img class="frame" src="Resimler/xinzhao.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Xinzhao</h3>
+          </li>
+
+          <h1>Y</h1>
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/yasuo/build" target="_blank">
+            <img class="frame" src="Resimler/yasuo.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Yasuo</h3>
+          </li>
+          
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/yone/build" target="_blank">
+            <img class="frame" src="Resimler/yone.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Yone</h3>
+          </li>
+          
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/yorick/build" target="_blank">
+            <img class="frame" src="Resimler/yorick.jpg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Yorick</h3>
+          </li>
+          
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/yuumi/build" target="_blank">
+            <img class="frame" src="Resimler/yuumi.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Yuumi</h3>
+          </li>
+          
+          <h1>Z</h1>
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/zac/build" target="_blank">
+            <img class="frame" src="Resimler/zac.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Zac</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/zed/build" target="_blank">
+            <img class="frame" src="Resimler/zed.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Zed</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/zeri/build" target="_blank">
+            <img class="frame" src="Resimler/zeri.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Zeri</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/ziggs/build" target="_blank">
+            <img class="frame" src="Resimler/ziggs.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Ziggs</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/zilean/build" target="_blank">
+            <img class="frame" src="Resimler/zilean.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Zilean</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/zoe/build" target="_blank">
+            <img class="frame" src="Resimler/zoe.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Zoe</h3>
+          </li>
+
+          <li>
+          <a href="https://mobalytics.gg/lol/champions/zyra/build" target="_blank">
+            <img class="frame" src="Resimler/zyra.jpeg" alt="Resim bulunamadı."/></a>
+          <br>
+          <h3>Zyra</h3>
+          </li>
+      </ul>
+    </div>
+  </body>
+</html>
