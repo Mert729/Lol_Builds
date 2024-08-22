@@ -3,6 +3,7 @@
     height: 180px;
     display: inline;
     list-style-type: none;
+    transition: 1s;
   }
 
   li {
@@ -41,11 +42,9 @@
   li a img:hover {
     width: 280px;
     height: 240px;
-    transition-duration: 0.5s;
   }
 
   li a img:not(:hover) {
     width: 240;
     height: 180;
-    transition-duration: 0.5s;
   }
